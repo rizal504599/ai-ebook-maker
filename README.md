@@ -1,1 +1,2 @@
-# ai-ebook-maker
+streamlit
+openai
